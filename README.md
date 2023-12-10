@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning create games
+- ✨ How to reach me: rebel.rs@yandex.ru or https://t.me/DolgoldurMo
+- :innocent: I’m looking for help with
 
 <!--
 **Mogrima/Mogrima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
